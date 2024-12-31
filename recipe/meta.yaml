@@ -21,6 +21,10 @@ source:
     url: https://pypi.org/packages/source/d/dagster-airbyte/dagster-airbyte-{{ version }}.tar.gz
     sha256: 3bb79484a73c04d297fd3bc77dbce1cb9e5ecc501bd8c49d6bc31b648ddd0878
 
+  - folder: dagster-airlift
+    url: https://pypi.org/packages/source/d/dagster-airlift/dagster-airlift-{{ version }}.tar.gz
+    sha256: e9207038fe8b123d311703aeeb6b60b25b521080051905dc59caa9f641c58300
+
   - folder: dagster-aws
     url: https://pypi.org/packages/source/d/dagster-aws/dagster-aws-{{ version }}.tar.gz
     sha256: ac9200474b244addee788e2a397fbd3ca72e0e7531df2e32fd09e49423a0d7b7
