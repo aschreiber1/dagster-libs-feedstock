@@ -26,6 +26,15 @@ Package license: Apache-2.0
 
 Summary: Package for integrating Airbyte with Dagster.
 
+About dagster-airlift
+---------------------
+
+Home: https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-airlift
+
+Package license: Apache-2.0
+
+Summary: Airlift is a toolkit for observing Airflow instances from within Dagster and for accelerating the migration of Airflow DAGs to Dagster assets.
+
 About dagster-aws
 -----------------
 
